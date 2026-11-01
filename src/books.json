@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "rank": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "rank": 3,
+    "title": "His Dark Materials",
+    "author": "Philip Pullman"
+  },
+  {
+    "rank": 4,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams"
+  },
+  {
+    "rank": 5,
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling"
+  },
+  {
+    "rank": 6,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "rank": 7,
+    "title": "Winnie the Pooh",
+    "author": "A.A. Milne"
+  },
+  {
+    "rank": 8,
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell"
+  },
+  {
+    "rank": 9,
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis"
+  },
+  {
+    "rank": 10,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë"
+  },
+  {
+    "rank": 11,
+    "title": "Catch-22",
+    "author": "Joseph Heller"
+  },
+  {
+    "rank": 12,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë"
+  },
+  {
+    "rank": 13,
+    "title": "Birdsong",
+    "author": "Sebastian Faulks"
+  },
+  {
+    "rank": 14,
+    "title": "Rebecca",
+    "author": "Daphne du Maurier"
+  },
+  {
+    "rank": 15,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger"
+  },
+  {
+    "rank": 16,
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame"
+  },
+  {
+    "rank": 17,
+    "title": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "rank": 18,
+    "title": "Little Women",
+    "author": "Louisa May Alcott"
+  },
+  {
+    "rank": 19,
+    "title": "Captain Corelli's Mandolin",
+    "author": "Louis de Bernières"
+  },
+  {
+    "rank": 20,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "rank": 21,
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell"
+  },
+  {
+    "rank": 22,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling"
+  },
+  {
+    "rank": 23,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling"
+  },
+  {
+    "rank": 24,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling"
+  },
+  {
+    "rank": 25,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "rank": 26,
+    "title": "Tess of the D'Urbervilles",
+    "author": "Thomas Hardy"
+  },
+  {
+    "rank": 27,
+    "title": "Middlemarch",
+    "author": "George Eliot"
+  },
+  {
+    "rank": 28,
+    "title": "A Prayer for Owen Meany",
+    "author": "John Irving"
+  },
+  {
+    "rank": 29,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck"
+  },
+  {
+    "rank": 30,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll"
+  },
+  {
+    "rank": 31,
+    "title": "The Story of Tracy Beaker",
+    "author": "Jacqueline Wilson"
+  },
+  {
+    "rank": 32,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "rank": 33,
+    "title": "The Pillars of the Earth",
+    "author": "Ken Follett"
+  },
+  {
+    "rank": 34,
+    "title": "David Copperfield",
+    "author": "Charles Dickens"
+  },
+  {
+    "rank": 35,
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl"
+  },
+  {
+    "rank": 36,
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson"
+  },
+  {
+    "rank": 37,
+    "title": "A Town Like Alice",
+    "author": "Nevil Shute"
+  },
+  {
+    "rank": 38,
+    "title": "Persuasion",
+    "author": "Jane Austen"
+  },
+  {
+    "rank": 39,
+    "title": "Dune",
+    "author": "Frank Herbert"
+  },
+  {
+    "rank": 40,
+    "title": "Emma",
+    "author": "Jane Austen"
+  },
+  {
+    "rank": 41,
+    "title": "Anne of Green Gables",
+    "author": "L.M. Montgomery"
+  },
+  {
+    "rank": 42,
+    "title": "Watership Down",
+    "author": "Richard Adams"
+  },
+  {
+    "rank": 43,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "rank": 44,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas"
+  },
+  {
+    "rank": 45,
+    "title": "Brideshead Revisited",
+    "author": "Evelyn Waugh"
+  },
+  {
+    "rank": 46,
+    "title": "Animal Farm",
+    "author": "George Orwell"
+  },
+  {
+    "rank": 47,
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens"
+  },
+  {
+    "rank": 48,
+    "title": "Far from the Madding Crowd",
+    "author": "Thomas Hardy"
+  },
+  {
+    "rank": 49,
+    "title": "Goodnight Mister Tom",
+    "author": "Michelle Magorian"
+  },
+  {
+    "rank": 50,
+    "title": "The Shell Seekers",
+    "author": "Rosamunde Pilcher"
+  },
+  {
+    "rank": 51,
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett"
+  },
+  {
+    "rank": 52,
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck"
+  },
+  {
+    "rank": 53,
+    "title": "The Stand",
+    "author": "Stephen King"
+  },
+  {
+    "rank": 54,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "rank": 55,
+    "title": "A Suitable Boy",
+    "author": "Vikram Seth"
+  },
+  {
+    "rank": 56,
+    "title": "The BFG",
+    "author": "Roald Dahl"
+  },
+  {
+    "rank": 57,
+    "title": "Swallows and Amazons",
+    "author": "Arthur Ransome"
+  },
+  {
+    "rank": 58,
+    "title": "Black Beauty",
+    "author": "Anna Sewell"
+  },
+  {
+    "rank": 59,
+    "title": "Artemis Fowl",
+    "author": "Eoin Colfer"
+  },
+  {
+    "rank": 60,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoyevsky"
+  },
+  {
+    "rank": 61,
+    "title": "Noughts and Crosses",
+    "author": "Malorie Blackman"
+  },
+  {
+    "rank": 62,
+    "title": "Memoirs of a Geisha",
+    "author": "Arthur Golden"
+  },
+  {
+    "rank": 63,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens"
+  },
+  {
+    "rank": 64,
+    "title": "The Thorn Birds",
+    "author": "Colleen McCullough"
+  },
+  {
+    "rank": 65,
+    "title": "Mort",
+    "author": "Terry Pratchett"
+  },
+  {
+    "rank": 66,
+    "title": "The Magic Faraway Tree",
+    "author": "Enid Blyton"
+  },
+  {
+    "rank": 67,
+    "title": "The Magus",
+    "author": "John Fowles"
+  },
+  {
+    "rank": 68,
+    "title": "Good Omens",
+    "author": "Terry Pratchett and Neil Gaiman"
+  },
+  {
+    "rank": 69,
+    "title": "Guards! Guards!",
+    "author": "Terry Pratchett"
+  },
+  {
+    "rank": 70,
+    "title": "Lord of the Flies",
+    "author": "William Golding"
+  },
+  {
+    "rank": 71,
+    "title": "Perfume",
+    "author": "Patrick Süskind"
+  },
+  {
+    "rank": 72,
+    "title": "The Ragged-Trousered Philanthropists",
+    "author": "Robert Tressell"
+  },
+  {
+    "rank": 73,
+    "title": "Night Watch",
+    "author": "Terry Pratchett"
+  },
+  {
+    "rank": 74,
+    "title": "Matilda",
+    "author": "Roald Dahl"
+  },
+  {
+    "rank": 75,
+    "title": "Bridget Jones's Diary",
+    "author": "Helen Fielding"
+  },
+  {
+    "rank": 76,
+    "title": "The Secret History",
+    "author": "Donna Tartt"
+  },
+  {
+    "rank": 77,
+    "title": "The Woman in White",
+    "author": "Wilkie Collins"
+  },
+  {
+    "rank": 78,
+    "title": "Ulysses",
+    "author": "James Joyce"
+  },
+  {
+    "rank": 79,
+    "title": "Bleak House",
+    "author": "Charles Dickens"
+  },
+  {
+    "rank": 80,
+    "title": "Double Act",
+    "author": "Jacqueline Wilson"
+  },
+  {
+    "rank": 81,
+    "title": "The Twits",
+    "author": "Roald Dahl"
+  },
+  {
+    "rank": 82,
+    "title": "I Capture the Castle",
+    "author": "Dodie Smith"
+  },
+  {
+    "rank": 83,
+    "title": "Holes",
+    "author": "Louis Sachar"
+  },
+  {
+    "rank": 84,
+    "title": "Gormenghast",
+    "author": "Mervyn Peake"
+  },
+  {
+    "rank": 85,
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy"
+  },
+  {
+    "rank": 86,
+    "title": "Vicky Angel",
+    "author": "Jacqueline Wilson"
+  },
+  {
+    "rank": 87,
+    "title": "Brave New World",
+    "author": "Aldous Huxley"
+  },
+  {
+    "rank": 88,
+    "title": "Cold Comfort Farm",
+    "author": "Stella Gibbons"
+  },
+  {
+    "rank": 89,
+    "title": "Magician",
+    "author": "Raymond E. Feist"
+  },
+  {
+    "rank": 90,
+    "title": "On the Road",
+    "author": "Jack Kerouac"
+  },
+  {
+    "rank": 91,
+    "title": "The Godfather",
+    "author": "Mario Puzo"
+  },
+  {
+    "rank": 92,
+    "title": "The Clan of the Cave Bear",
+    "author": "Jean M. Auel"
+  },
+  {
+    "rank": 93,
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett"
+  },
+  {
+    "rank": 94,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho"
+  },
+  {
+    "rank": 95,
+    "title": "Katherine",
+    "author": "Anya Seton"
+  },
+  {
+    "rank": 96,
+    "title": "Kane and Abel",
+    "author": "Jeffrey Archer"
+  },
+  {
+    "rank": 97,
+    "title": "Love in the Time of Cholera",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "rank": 98,
+    "title": "Girls in Love",
+    "author": "Jacqueline Wilson"
+  },
+  {
+    "rank": 99,
+    "title": "The Princess Diaries",
+    "author": "Meg Cabot"
+  },
+  {
+    "rank": 100,
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie"
+  }
+]
